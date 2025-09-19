@@ -25,7 +25,6 @@
 
 ### 3. Методы
 
-Осноные методы:
 - DebugPrint();
 - DebugError();
 - CapsulaDebug();
