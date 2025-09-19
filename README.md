@@ -2,8 +2,7 @@
 
 Фреймворк для отслеживания перемещений игрока на карте, и вывод результатов перемещения в Debug Screen
 
-![[![Uploading Screenshot 2025-09-20 002352.png…]()
-]]
+<img width="1203" height="627" alt="Screenshot 2025-09-20 002352" src="https://github.com/user-attachments/assets/e1d9182e-e7b0-4eda-a2ed-bdd37da8e5da" />
 
 ---
 
